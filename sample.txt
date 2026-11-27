@@ -1,0 +1,3 @@
+Git keeps a full history of the project on every machine.
+Branches let two changes grow side by side.
+A conflict appears when both change the same line.
