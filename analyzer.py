@@ -13,7 +13,7 @@ def count_stats(text):
 
 def format_report(stats):
     """Turn the statistics into a one-line report."""
-    return f"Words: {stats['words']}"
+    return f"Words: {stats['words']} | Characters: {stats['characters']}"
 
 
 def main():
